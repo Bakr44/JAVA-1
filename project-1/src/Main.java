@@ -24,7 +24,7 @@ public class Main {
 //            System.out.println("Computer chose " + computerChoice);
 //            TicTacToe.printBoard();
 //            if (TicTacToe.gameEnd()) {
-//                System.out.println(TicTacToe.winningSymbol == 'X' ? "Congratulations! You won!" : "Sorry, the computer won.");
+//                System.out.println(TicTacToe.winningSymbol == 'X' ? "Congratulations! You win!" : "Computer win!");
 //                break;
 //            }
 //        }

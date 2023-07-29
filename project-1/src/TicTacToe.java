@@ -63,10 +63,7 @@ public class TicTacToe {
             return true;
         }
 
-        if (isDraw()) {
-            return true;
-        }
-        return false;
+        return isDraw();
     }
 
     //method to let computer choose
