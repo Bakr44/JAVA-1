@@ -8,7 +8,7 @@ public class TicTacToe {
     static char empty = ' ';
     static char winningSymbol = ' ';
     static char[][] board = new char[initRow][initCol];
-    static Scanner input = new Scanner(System.in);
+//    static Scanner input = new Scanner(System.in);
 
 
     public static void printBoard() {
